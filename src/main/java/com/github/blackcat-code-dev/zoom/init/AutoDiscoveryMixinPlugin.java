@@ -1,4 +1,4 @@
-package com.example.init;
+package com.github.blackcat-code-dev.zoom.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
